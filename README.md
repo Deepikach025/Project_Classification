@@ -34,3 +34,13 @@ The approach is validated using the MNIST and Fashion MNIST datasets to demonstr
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Deepikach025/Project_Classification.git
+
+
+
+## Results
+
+### The proposed approach demonstrates:
+
+- Improved pseudo-label prediction accuracy compared to traditional binary classifiers.
+- Reduced training time and computational costs by avoiding oversampling or undersampling.
+- Validation on the MNIST and Fashion MNIST datasets showcases the approach's generalizability and robustness.
