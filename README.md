@@ -36,7 +36,6 @@ The approach is validated using the MNIST and Fashion MNIST datasets to demonstr
    git clone https://github.com/Deepikach025/Project_Classification.git
 
 
-
 ## Results
 
 ### The proposed approach demonstrates:
