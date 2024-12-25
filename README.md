@@ -1,4 +1,4 @@
-# Pseudo-Labeling in Semi-Supervised Learning Using Fine-Tuned Binary Classifiers
+# A Semi Supervised Learning Approach for Image Classification
 
 ## Project Summary
 
